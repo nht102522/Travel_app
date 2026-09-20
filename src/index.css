@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  blockquote,
+  pre,
+  ul,
+  ol,
+  menu,
+  dl,
+  figure,
+  hr {
+    all: revert;
+  }
+
+  strong,
+  b,
+  em,
+  i,
+  small,
+  sub,
+  sup,
+  code,
+  kbd,
+  samp,
+  mark,
+  cite,
+  abbr {
+    all: revert;
+  }
+}
+@layer base {
+  a:link {
+    color: #0000ee;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: #551a8b;
+  }
+
+  a:active {
+    color: #ff0000;
+  }
+}
