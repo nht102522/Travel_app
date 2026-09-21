@@ -13,28 +13,112 @@
       "id": 73930385
     },
     {
+      "cityName": "Porto",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-09-12T10:30:00.000Z",
+      "notes": "Beautiful river and bridges.",
+      "position": {
+        "lat": 41.1579,
+        "lng": -8.6291
+      },
+      "id": 73930386
+    },
+    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
       "date": "2027-07-15T08:22:53.976Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": 40.4168,
+        "lng": -3.7038
       },
       "id": 17806751
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-06-20T12:00:00.000Z",
+      "notes": "I loved the architecture.",
+      "position": {
+        "lat": 41.3874,
+        "lng": 2.1686
+      },
+      "id": 17806752
     },
     {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
       "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "notes": "Amazing city!",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": 52.52,
+        "lng": 13.405
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Munich",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-03-18T14:15:00.000Z",
+      "notes": "Great food and parks.",
+      "position": {
+        "lat": 48.1351,
+        "lng": 11.582
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-04-05T11:45:00.000Z",
+      "notes": "Visited the Eiffel Tower.",
+      "position": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "id": 56230941
+    },
+    {
+      "cityName": "Lyon",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2027-05-10T16:20:00.000Z",
+      "notes": "The food was excellent.",
+      "position": {
+        "lat": 45.764,
+        "lng": 4.8357
+      },
+      "id": 56230942
+    },
+    {
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-08-22T09:10:00.000Z",
+      "notes": "So much history!",
+      "position": {
+        "lat": 41.9028,
+        "lng": 12.4964
+      },
+      "id": 43678215
+    },
+    {
+      "cityName": "Milan",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2027-08-28T13:40:00.000Z",
+      "notes": "A modern and fashionable city.",
+      "position": {
+        "lat": 45.4642,
+        "lng": 9.19
+      },
+      "id": 43678216
     }
   ]
 }
