@@ -119,6 +119,18 @@
         "lng": 9.19
       },
       "id": 43678216
+    },
+    {
+      "cityName": "Upper Darby",
+      "country": "United States",
+      "emoji": "🇺🇸",
+      "date": "2026-09-21T00:00:00.000Z",
+      "notes": "My home",
+      "position": {
+        "lat": 39.963562630211406,
+        "lng": -75.28345041783057
+      },
+      "id": 73930387
     }
   ]
 }
